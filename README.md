@@ -5,4 +5,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1678-goal-parser-interpretation](https://github.com/rounitrai78-cloud/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
+## Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/rounitrai78-cloud/leetcode-solutions/tree/master/0263-ugly-number) |
 <!---LeetCode Topics End-->
