@@ -20,4 +20,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/rounitrai78-cloud/leetcode-solutions/tree/master/0125-valid-palindrome) |
+## Array
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/rounitrai78-cloud/leetcode-solutions/tree/master/0054-spiral-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/rounitrai78-cloud/leetcode-solutions/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/rounitrai78-cloud/leetcode-solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
