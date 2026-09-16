@@ -20,19 +20,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/rounitrai78-cloud/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0832-flipping-an-image](https://github.com/rounitrai78-cloud/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Array
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rounitrai78-cloud/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rounitrai78-cloud/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0832-flipping-an-image](https://github.com/rounitrai78-cloud/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rounitrai78-cloud/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rounitrai78-cloud/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0832-flipping-an-image](https://github.com/rounitrai78-cloud/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rounitrai78-cloud/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rounitrai78-cloud/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
+| [0832-flipping-an-image](https://github.com/rounitrai78-cloud/leetcode-solutions/tree/master/0832-flipping-an-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/rounitrai78-cloud/leetcode-solutions/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
